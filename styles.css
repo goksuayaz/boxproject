@@ -1,0 +1,27 @@
+body{
+    background-color: white;
+}
+
+div{
+    background-color: blue;
+    border: 10px solid purple;
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 80px;
+    
+}
+
+h3{
+    color:white;
+    margin-left:10px;
+
+}
+
+p{
+    color: white;
+    border: 1px solid red;
+    background-color: red;
+    border-width:inherit;
+    margin-left: 10px;
+    margin-right: 10px;
+}
